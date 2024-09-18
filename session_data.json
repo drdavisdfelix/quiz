@@ -1,0 +1,25 @@
+{
+  "region": "india",
+  "age_group": "23",
+  "general_topic": "Computer Science",
+  "sub_topic": "DBMS",
+  "difficulty": "Medium",
+  "answers": [
+    {
+      "question": "Question: What is the purpose of normalization in a database management system (DBMS)?\nA) To increase data redundancy\nB) To eliminate data anomalies\nC) To enhance security features\nD) To improve query execution speed  \nCorrect: B",
+      "user_answer": "To eliminate data anomalies",
+      "correct_answer": "B) To eliminate data anomalies",
+      "is_correct": true,
+      "time_taken": 14.33509111404419
+    },
+    {
+      "question": "Question: Which of the following is a characteristic of a relational database management system (RDBMS)?\nA) It stores data in key-value pairs.\nB) It uses tables to represent data and relationships.\nC) It only supports non-structured data.\nD) It requires explicit data type declaration for each column.  \nCorrect: B",
+      "user_answer": "It uses tables to represent data and relationships.",
+      "correct_answer": "B) It uses tables to represent data and relationships.",
+      "is_correct": true,
+      "time_taken": 8.324663877487183
+    }
+  ],
+  "score": 2,
+  "timestamp": "2024-08-02T12:32:26.487943"
+}
