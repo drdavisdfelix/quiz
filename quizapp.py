@@ -328,4 +328,4 @@ with gr.Blocks(gr.themes.Monochrome()) as ui:
 
     ui.load(update_timer, outputs=[question, option_a, option_b, option_c, option_d, true_button, false_button, score, timer], every=0.1)
 
-ui.launch()
+ui.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 8080)))
