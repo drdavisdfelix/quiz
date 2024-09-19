@@ -1,1 +1,1 @@
-web: streamlit run quizapp.py
+web: python quizapp.py
